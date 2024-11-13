@@ -85,12 +85,3 @@
   <h3>📚 Libraries</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-<!-- GIF -->
-## The End
-
-<p>You can rest now</p>
-<div align="center">
-  
-![bonfire](https://github.com/user-attachments/assets/7eaf9e22-6138-4f63-8da2-61622ebe0b74)
-</div>
