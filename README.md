@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  I'm Estevão, a FullStack student bursting with passion and enthusiasm, straight from Brazil! 🌟
+  I'm Estevão, a Web Development student bursting with passion and enthusiasm, straight from Brazil! 🌟
 </p>
 
 <p>
