@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  I'm Estevão, a Web Development student bursting with passion and enthusiasm, straight from Brazil! 🌟
+  I'm Estevão, a Computer Engineering student currently attending FHO in Brazil and a technical intern at SESI making part of MAKER's group! 🌟
 </p>
 
 <p>
@@ -20,12 +20,12 @@
     <li>Information Systems Security;</li>
     <li>UI/UX Design;</li>
     <li>Web Content Management;</li>
-    <li>Web Development.</li>
+    <li>Web Development;</li>
+    <li>Embedded Systems with Arduino.</li>
   </ul>
 </p>
 
 <p>
-  🔭 I'm on the lookout for my first job opportunity as a Frontend/Backend Developer. 
   ✨ My dream? To contribute to a massive project that changes the world for the better!
 </p>
 
@@ -33,7 +33,7 @@
 <details>
   <summary>👨‍💻 A little more about me</summary>
   
-  💬 I'm 18 years old and fluent in English, with experience in areas like accessibility, SQL databases, and UI/UX design.
+  💬 I'm 19 years old and fluent in English, with experience in areas like accessibility, SQL databases, UI/UX design, and embedded systems development with Arduino.
 
   I’ve worked as a Social Media Designer, which helped me hone my skills in creativity, communication, and social media management.
 
@@ -70,12 +70,14 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
   <h3>🛠️ Tools & Frameworks</h3>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Flask" height="30" width="40" src="https://img.icons8.com/ios/50/ffffff/flask.png">
   <img align="center" alt="MySQL Workbench" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
@@ -85,3 +87,14 @@
   <h3>📚 Libraries</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+<!-- OS -->
+<div style="flex-basis: 48%;">
+  <h3> <img align="center" alt="Arch" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> Linux OS User </h3>
+  <img align="center" alt="Arch" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+</div>
+
+<!-- Footer -->
+<p align="center">
+  "Always learning, always growing. 🚀"
+</p>
