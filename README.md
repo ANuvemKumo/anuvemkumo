@@ -13,20 +13,19 @@
 <p>
   🌱 Right now, I’m diving into:
   <ul>
-    <li>Accessibility;</li>
-    <li>Databases with SQL;</li>
-    <li>Ethics and Citizenship;</li>
-    <li>Fundamentals of Computing;</li>
-    <li>Information Systems Security;</li>
-    <li>UI/UX Design;</li>
-    <li>Web Content Management;</li>
-    <li>Web Development;</li>
-    <li>Embedded Systems with Arduino.</li>
+    <li>Technical Drawing;</li>
+    <li>Using LLMs with Python;</li>
+    <li>Arduino and MAKER Projects;</li>
+    <li>OBR (Brazilian Robotics Olympiad).</li>
+    <li>React Native and Mobile Development;</li>
+    <li>UI/UX Design for Apps;</li>
+    <li>Data Organization and Visualization with Python.</li>
   </ul>
 </p>
 
+
 <p>
-  ✨ My dream? To contribute to a massive project that changes the world for the better!
+  ✨ My dream? To contribute to a massive project that changes the world for better!
 </p>
 
 <!-- Dropdown -->
@@ -37,7 +36,7 @@
 
   I’ve worked as a Social Media Designer, which helped me hone my skills in creativity, communication, and social media management.
 
-  - ⚡ In my free time, I love reading a good book, watching movies, and gaming! I believe our personal interests give us a broader perspective and help us solve problems more creatively. 🎮📚
+  - ⚡ In my free time, I love reading fantasy books, watching movies, and gaming! I believe our personal interests give us a broader perspective and help us solve problems more creatively. 🎮📚
 </details>
 
 <!-- Links -->
