@@ -49,7 +49,7 @@
 </div>
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuvemkumo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuvemkumo&show_icons=true&theme=tokyonight&count_private=true)
 
 <!-- Portfolio -->
 ## Portfolio
