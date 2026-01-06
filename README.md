@@ -48,11 +48,6 @@
   
 </div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=anuvemkumo&theme=tokyo-night)
-
-<!-- GitHub Stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuvemkumo&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuvemkumo&theme=tokyonight)
 
 
 <!-- Portfolio -->
@@ -63,6 +58,14 @@
 <p align="left">
   <img align="center" style="width: 50%; height: auto;" src="https://images.squarespace-cdn.com/content/v1/60c0cbb7ba596c14b0e1d74b/43f2bad3-5cb3-4985-adfd-42097786cd9c/Totoro-main-2.gif" alt="Animated GIF">
 </p>
+
+## Stats
+
+<!-- GitHub Stats -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuvemkumo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuvemkumo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuvemkumo&theme=tokyonight)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
