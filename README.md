@@ -48,8 +48,12 @@
   
 </div>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=anuvemkumo&theme=tokyo-night)
+
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuvemkumo&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuvemkumo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuvemkumo&theme=tokyonight)
+
 
 <!-- Portfolio -->
 ## Portfolio
